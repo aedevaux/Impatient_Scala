@@ -1,0 +1,30 @@
+total 56
+drwxr-xr-x 13 cay cstech 4096 2011-12-05 17:49 .
+drwxr-xr-x 24 cay cstech 4096 2011-11-27 07:56 ..
+-rw-r--r--  1 cay cay     129 2011-12-03 09:44 repl-session.scala
+drwxrwxr-x  2 cay cay    4096 2011-12-05 10:43 sec01
+drwxrwxr-x  2 cay cay    4096 2011-12-05 19:28 sec02
+drwxrwxr-x  2 cay cay    4096 2011-12-05 11:03 sec03
+drwxrwxr-x  2 cay cay    4096 2011-12-05 13:42 sec04
+drwxrwxr-x  2 cay cay    4096 2011-12-05 13:45 sec05
+drwxrwxr-x  2 cay cay    4096 2011-12-05 13:58 sec06
+drwxrwxr-x  2 cay cay    4096 2011-12-05 14:17 sec07
+drwxrwxr-x  2 cay cay    4096 2011-12-05 14:25 sec08
+drwxrwxr-x  2 cay cay    4096 2011-12-05 19:34 sec09
+drwxrwxr-x  2 cay cay    4096 2011-12-05 14:28 sec10
+drwxrwxr-x  2 cay cay    4096 2011-12-05 14:30 sec11
+total 56
+drwxr-xr-x 13 cay cstech 4096 2011-12-05 17:49 .
+drwxr-xr-x 24 cay cstech 4096 2011-11-27 07:56 ..
+-rw-r--r--  1 cay cay     129 2011-12-03 09:44 repl-session.scala
+drwxrwxr-x  2 cay cay    4096 2011-12-05 10:43 sec01
+drwxrwxr-x  2 cay cay    4096 2011-12-05 19:28 sec02
+drwxrwxr-x  2 cay cay    4096 2011-12-05 11:03 sec03
+drwxrwxr-x  2 cay cay    4096 2011-12-05 13:42 sec04
+drwxrwxr-x  2 cay cay    4096 2011-12-05 13:45 sec05
+drwxrwxr-x  2 cay cay    4096 2011-12-05 13:58 sec06
+drwxrwxr-x  2 cay cay    4096 2011-12-05 14:17 sec07
+drwxrwxr-x  2 cay cay    4096 2011-12-05 14:25 sec08
+drwxrwxr-x  2 cay cay    4096 2011-12-05 19:34 sec09
+drwxrwxr-x  2 cay cay    4096 2011-12-05 14:28 sec10
+drwxrwxr-x  2 cay cay    4096 2011-12-05 14:30 sec11

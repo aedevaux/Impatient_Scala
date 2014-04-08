@@ -1,0 +1,1 @@
+This repository is for solutions to exercises in the book “Scala for the Impatient” by Cay Horstman.
